@@ -28,15 +28,18 @@ A simple yet functional **ATM simulation system in Java**, designed to replicate
    cd atm-simulation
 
 2. Compile the Java files:
+    ```bash
    javac ATM.java
 
-3. Run the program:
+4. Run the program:
+    ```bash
    java ATM
 
 🧪 **Sample Demo** 
 
 Welcome to the ATM!
 
+ ```bash
 Enter your PIN: ****
 
 1. Check Balance
