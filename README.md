@@ -49,10 +49,13 @@ Enter your PIN: ****
 
 Enter your choice: 1
 Your balance is: ₹5000.00
+```
 
 📌 Notes
+
 Currently supports one user for demo purposes.
 Can be easily extended to support file/database storage and multiple users.
 
 📄 License
+
 This project is licensed under the MIT License.
